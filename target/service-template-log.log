@@ -1,0 +1,39 @@
+[INFO ] 2020-11-01 15:01:19.341 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 7560 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:01:19.489 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:06:26.912 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 21304 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:06:27.039 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:10:24.322 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 9280 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:10:24.459 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:14:27.151 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 7592 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:14:27.322 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:25:16.079 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 21252 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:25:16.249 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:31:40.062 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 12672 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:31:40.241 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:32:46.902 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 20096 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:32:47.061 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:42:09.115 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 17576 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:42:09.292 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:45:45.920 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 15984 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:45:46.055 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 15:55:27.793 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 18900 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 15:55:27.875 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 16:27:34.396 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 4944 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-01 16:27:34.556 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-01 16:28:10.001 [main] UserController - URI /user is triggered
+[INFO ] 2020-11-01 16:28:27.737 [main] UserApplicationKt - Started UserApplicationKt in 54.85 seconds (JVM running for 67.527)
+[INFO ] 2020-11-01 16:31:42.095 [http-nio-8091-exec-4] UserController - URI /user is triggered
+[INFO ] 2020-11-01 16:35:34.884 [http-nio-8091-exec-10] UserController - URI /user is triggered
+[INFO ] 2020-11-01 16:41:03.527 [http-nio-8091-exec-5] UserController - URI /user is triggered
+[INFO ] 2020-11-03 18:04:51.078 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 10028 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:04:51.182 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-03 18:12:05.679 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 21344 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:12:05.783 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-03 18:28:04.444 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 21656 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:28:04.585 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-03 18:33:08.290 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 19752 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:33:08.507 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-03 18:42:17.757 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 8764 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:42:17.914 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-03 18:43:55.364 [main] UserApplicationKt - Starting UserApplicationKt on AHZDL5CG8304XFX with PID 7760 (C:\Users\pnl03j2q\AzureDevOps\user-service\target\classes started by pnl03j2q in C:\Users\pnl03j2q\AzureDevOps\user-service)
+[INFO ] 2020-11-03 18:43:55.680 [main] UserApplicationKt - No active profile set, falling back to default profiles: default
